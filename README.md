@@ -59,9 +59,29 @@ Thanks using my OmicsTools soft made by ZihaoXing(ZihaoXingstudy@163.com).
 
 ## OmicsTools的下载使用教学视频
 
-### OmicsTools软件下载
+### OmicsTools软件和依赖的工具下载链接:
 
-直接在[Github上搜索OmicsTools仓库:https://github.com/zihaoxingstudy1/OmicsTools.git](https://github.com/zihaoxingstudy1/OmicsTools.git),就可以下载到OmicsTools软件安装包
+#### omicsTools下载链接
+
+我用夸克网盘分享了「OmicsToolsApp-win32-x64.rar」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+ 链接：https://pan.quark.cn/s/16697cbc1c68
+ 关注我的公众号“生信学习”或b站"邢博士谈科教",在后台私信发送“OmicsTools”关键字来领取下载提取码
+
+#### R环境下载链接
+
+我用夸克网盘分享了「download.rar」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+ 链接：https://pan.quark.cn/s/4576c89ccef2
+
+关注我的公众号“生信学习”或b站"邢博士谈科教",在后台私信发送“download"关键字领取下载提取码 
+
+#### 依赖的所有R包下载链接
+
+我用夸克网盘分享了「Rlibs.rar」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+ 链接：https://pan.quark.cn/s/379a8b3d1b5f
+
+关注我的公众号“生信学习”或b站"邢博士谈科教",在后台私信发送“download"关键字领取下载提取码 
+
+
 
 
 ### 录制好的视频或图文教程观看链接
