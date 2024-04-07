@@ -43,19 +43,10 @@ Thanks using my OmicsTools soft made by ZihaoXing(ZihaoXingstudy@163.com).
 * 微信公众号: 生信学习
 * 自媒体账号: 邢博士谈科教(抖音,头条,西瓜视频,b站,小红书均为同名)
 
-### OmicTools收费价格和更多服务
+### 更多服务
 
-*  软件年费会员:399元/年,购买后可在自己电脑上一年内无限使用
-
-* 软件终身大会员:1499元,购买后可在自己电脑上永久无限使用
-
-*  软件使用培训班价格: 1400元，向学员在线培训软件所有模块和工具的使用，以及把大量模块串联起来进行复杂的科研课题分析,每晚培训2小时，培训2周共28小时
-
-* 软件使用按小时收费培训价格: 100元/小时
-
-* 本人业余时间也提供付费的生信个性化分析和科研设计服务,有需要的朋友也可以跟我联系
-
-* 平时晚上7:00-8:00有空的时候会在b站或抖音上直播答疑解惑，解答世间万物，我直播的时候欢迎大家看我直播跟我提问交流呀
+*  平时会向大家在线培训软件所有模块和工具的使用，以及把大量模块串联起来进行复杂的科研课题分析
+*  本人业余时间也提供付费的生信个性化分析和科研设计服务,有需要的朋友也可以跟我联系
 
 ## OmicsTools的下载使用教学视频
 
@@ -91,15 +82,6 @@ Thanks using my OmicsTools soft made by ZihaoXing(ZihaoXingstudy@163.com).
 * [微信公众号上OmicsTools的官方使用教程,点击该文字即可跳转到微信公众号内容](https://mp.weixin.qq.com/s?__biz=MzIyMDcxNjYzNQ==&mid=2247485424&idx=1&sn=d8611df6f38809e230b4042461b680b9&chksm=97c68cc4a0b105d2f02e95b34d023faf8641bbfb30fc61b6c2dc3f8ae7b1f6f51ba0443e4b66&payreadticket=HKEgLzO5tI4-B0rAqck1joLxSP37_5VD3JRuFxmPaMnYeyAzw2FSBGg8xgOZOsmeSBzBtgw#rd)
 * [b站上OmicsTools的官方使用教程:https://www.bilibili.com/video/av1201662576/](https://www.bilibili.com/video/av1201662576/)
 * [抖音上OmicsTools的官方使用教程:https://www.douyin.com/user/self?modal_id=7343963645736488243,如果打不开链接，直接在抖音app中观看我发布的OmicsTools相关教程视频](https://www.douyin.com/user/self?modal_id=7343963645736488243)
-* [西瓜视频上OmicsTools的官方使用教程:https://www.ixigua.com/7343963771000422948?logTag=90a92f6ffab7102bbd94](https://www.ixigua.com/7343963771000422948?logTag=90a92f6ffab7102bbd94)
-* [小红书上OmicsTools的官方使用教程: https://www.xiaohongshu.com/explore/65eba7a100000000030369d7](https://www.xiaohongshu.com/explore/65eba7a100000000030369d7)
-
-
-#### 微信公众号上最详细的OmicsTools使用教学教程
-
-* [微信公众号上OmicsTools的官方使用教程,点击该文字即可跳转到微信公众号内容](https://mp.weixin.qq.com/s?__biz=MzIyMDcxNjYzNQ==&mid=2247485424&idx=1&sn=d8611df6f38809e230b4042461b680b9&chksm=97c68cc4a0b105d2f02e95b34d023faf8641bbfb30fc61b6c2dc3f8ae7b1f6f51ba0443e4b66&payreadticket=HKEgLzO5tI4-B0rAqck1joLxSP37_5VD3JRuFxmPaMnYeyAzw2FSBGg8xgOZOsmeSBzBtgw#rd)
-
-  > 微信公众号上的OmicsTools使用教程是最详细最全面的，欢迎大家关注我的微信公众号"生信学习"来学习使用OmicsTools进行零代码生信分析。
 
 ### 线上或线下直播实时培训教学
 
