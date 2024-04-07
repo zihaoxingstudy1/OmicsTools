@@ -35,44 +35,12 @@ Thanks using my OmicsTools soft made by ZihaoXing(ZihaoXingstudy@163.com).
 * OmicsTools可以让用户利用各个模块串联起来实现复杂的科研课题分析
 * OmicsTools对于国产生物软件的发展和自主可控有所贡献
 
-## OmicsTools软件和服务及联系作者
-
-### 联系方式
-
-* 微信: zxhya_123
-* 微信公众号: 生信学习
-* 自媒体账号: 邢博士谈科教(抖音,头条,西瓜视频,b站,小红书均为同名)
-
 ### 更多服务
 
 *  平时会向大家在线培训软件所有模块和工具的使用，以及把大量模块串联起来进行复杂的科研课题分析
 *  本人业余时间也提供付费的生信个性化分析和科研设计服务,有需要的朋友也可以跟我联系
 
-## OmicsTools的下载使用教学视频
-
-### OmicsTools软件和依赖的工具下载链接:
-
-#### omicsTools下载链接
-
-我用夸克网盘分享了「OmicsToolsApp-win32-x64.rar」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
- 链接：https://pan.quark.cn/s/16697cbc1c68
- 关注我的公众号“生信学习”或b站"邢博士谈科教",在后台私信发送“OmicsTools”关键字来领取下载提取码
-
-#### R环境下载链接
-
-我用夸克网盘分享了「download.rar」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
- 链接：https://pan.quark.cn/s/4576c89ccef2
-
-关注我的公众号“生信学习”或b站"邢博士谈科教",在后台私信发送“download"关键字领取下载提取码 
-
-#### 依赖的所有R包下载链接
-
-我用夸克网盘分享了「Rlibs.rar」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
- 链接：https://pan.quark.cn/s/379a8b3d1b5f
-
-关注我的公众号“生信学习”或b站"邢博士谈科教",在后台私信发送“download"关键字领取下载提取码 
-
-
+## OmicsTools的安装使用教学视频
 
 
 ### 录制好的视频或图文教程观看链接
@@ -82,6 +50,7 @@ Thanks using my OmicsTools soft made by ZihaoXing(ZihaoXingstudy@163.com).
 * [微信公众号上OmicsTools的官方使用教程,点击该文字即可跳转到微信公众号内容](https://mp.weixin.qq.com/s?__biz=MzIyMDcxNjYzNQ==&mid=2247485424&idx=1&sn=d8611df6f38809e230b4042461b680b9&chksm=97c68cc4a0b105d2f02e95b34d023faf8641bbfb30fc61b6c2dc3f8ae7b1f6f51ba0443e4b66&payreadticket=HKEgLzO5tI4-B0rAqck1joLxSP37_5VD3JRuFxmPaMnYeyAzw2FSBGg8xgOZOsmeSBzBtgw#rd)
 * [b站上OmicsTools的官方使用教程:https://www.bilibili.com/video/av1201662576/](https://www.bilibili.com/video/av1201662576/)
 * [抖音上OmicsTools的官方使用教程:https://www.douyin.com/user/self?modal_id=7343963645736488243,如果打不开链接，直接在抖音app中观看我发布的OmicsTools相关教程视频](https://www.douyin.com/user/self?modal_id=7343963645736488243)
+* [OmicsTools的安装配置教程](https://www.bilibili.com/video/BV1hx42117U4/): https://www.bilibili.com/video/BV1hx42117U4/
 
 ### 线上或线下直播实时培训教学
 
