@@ -45,10 +45,14 @@ OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases ·
 * OmisTools的每个功能模块都制作了详细的图文和视频教学课程和结果解读，让大家能快速掌握OmicsTools的使用和进行各种复杂的生信分析和作图
 
 ## OmicsTools的软件安装包下载操作详解
+
+* [OmicsTools软件的官方github地址](https://github.com/zihaoxingstudy1/OmicsTools): https://github.com/zihaoxingstudy1/OmicsTools
+* [OmicsTools软件的更新版本的下载地址](https://github.com/zihaoxingstudy1/OmicsTools/releases):https://github.com/zihaoxingstudy1/OmicsTools/releases
+
 ![omicsToos](img/home1.png)
 
 
-![omicsToos](img/download2.png)
+![omicsToos](img/download1.png)
 
 ## OmicsTools的安装使用教学视频
 
