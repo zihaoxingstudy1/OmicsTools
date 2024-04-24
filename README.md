@@ -6,6 +6,14 @@ Thanks using my OmicsTools soft made by ZihaoXing(ZihaoXingstudy@163.com).
 
 ![omicsToos](img/omicstools.ico)
 
+# 软件下载官方网址
+
+OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases · zihaoxingstudy1/OmicsTools (github.com)](https://github.com/zihaoxingstudy1/OmicsTools/releases) (https://github.com/zihaoxingstudy1/OmicsTools/releases)，点击该链接即可下载历史版本和上传到github上较新版本的OmicsTools电脑软件
+
+如果遇到在国内github访问较慢的情况，也可以关注我的b站，抖音账号"邢博士谈科教"或微信公众号"生信学习"或淘宝店铺“生信研究”，跟我发私信来免费获取OmicsTools的软件安装包
+
+
+
 ## OmicsTools涵盖的功能和愿景
 
 ### 热门公共数据库数据的下载和挖掘
@@ -34,11 +42,11 @@ Thanks using my OmicsTools soft made by ZihaoXing(ZihaoXingstudy@163.com).
 * OmicsTools在本地分析，用户可以无限分析，没有次数限制
 * OmicsTools可以让用户利用各个模块串联起来实现复杂的科研课题分析
 * OmicsTools对于国产生物软件的发展和自主可控有所贡献
+* OmisTools的每个功能模块都制作了详细的图文和视频教学课程和结果解读，让大家能快速掌握OmicsTools的使用和进行各种复杂的生信分析和作图
 
-### 更多服务
+# OmicsTools的软件安装包下载操作详解
 
-*  平时会向大家在线培训软件所有模块和工具的使用，以及把大量模块串联起来进行复杂的科研课题分析
-*  本人业余时间也提供付费的生信个性化分析和科研设计服务,有需要的朋友也可以跟我联系
+
 
 ## OmicsTools的安装使用教学视频
 
@@ -48,11 +56,20 @@ Thanks using my OmicsTools soft made by ZihaoXing(ZihaoXingstudy@163.com).
 #### 自媒体上更新的OmicsTools使用教程
 
 * [微信公众号上OmicsTools的官方使用教程,点击该文字即可跳转到微信公众号内容](https://mp.weixin.qq.com/s?__biz=MzIyMDcxNjYzNQ==&mid=2247485424&idx=1&sn=d8611df6f38809e230b4042461b680b9&chksm=97c68cc4a0b105d2f02e95b34d023faf8641bbfb30fc61b6c2dc3f8ae7b1f6f51ba0443e4b66&payreadticket=HKEgLzO5tI4-B0rAqck1joLxSP37_5VD3JRuFxmPaMnYeyAzw2FSBGg8xgOZOsmeSBzBtgw#rd)
+
 * [b站上OmicsTools的官方使用教程:https://www.bilibili.com/video/av1201662576/](https://www.bilibili.com/video/av1201662576/)
+
 * [抖音上OmicsTools的官方使用教程:https://www.douyin.com/user/self?modal_id=7343963645736488243,如果打不开链接，直接在抖音app中观看我发布的OmicsTools相关教程视频](https://www.douyin.com/user/self?modal_id=7343963645736488243)
+
 * [OmicsTools的安装配置教程](https://www.bilibili.com/video/BV1hx42117U4/): https://www.bilibili.com/video/BV1hx42117U4/
 
-### 线上或线下直播实时培训教学
+  
 
-* 定期举办线上线下培训班向学员培训Omicstools软件所有模块和工具的使用教程，以及把大量模块串联起来进行复杂的科研课题分析,•每晚培训2小时，培训2周共28小时,欢迎大家找我报名学习
+# 更多服务
+
+* 本人业余时间也提供付费的生信个性化分析作图和科研设计服务,有需要的朋友也可以加我微信"zxhya_123"或搜索关注我的淘宝店铺"生信研究" 在淘宝上跟我联系和商讨生信的个性化分析和生信作图的商单
+
+  
+
+
 
