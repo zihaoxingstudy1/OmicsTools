@@ -1,16 +1,16 @@
 # Welcome to OmicsTools
 
-Thanks using my OmicsTools soft made by ZihaoXing(ZihaoXingstudy@163.com).
-
-我开发了一款本地电脑无限使用的零代码生信数据分析作图神器电脑软件OmicsTools，欢迎大家使用OmicsTools进行生物医学科研数据分析和作图，也希望大家能关注我的微信公众号“生信学习”和全网自媒体账号邢博士谈科教和点赞转发我的教学视频和报名OmicsTools使用学习培训班，该软件能让大家在不需要任何编程和代码编写的基础上，快速进行大量的生信分析和加速大家的科学研究。
-
-![omicsToos](img/omicstools.ico)
-
-# 软件下载官方网址
+## 软件下载官方网址
 
 OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases · zihaoxingstudy1/OmicsTools (github.com)](https://github.com/zihaoxingstudy1/OmicsTools/releases) (https://github.com/zihaoxingstudy1/OmicsTools/releases)，点击该链接即可下载历史版本和上传到github上较新版本的OmicsTools电脑软件
 
 如果遇到在国内github访问较慢的情况，也可以关注我的b站，抖音账号"邢博士谈科教"或微信公众号"生信学习"或淘宝店铺“生信研究”，跟我发私信来免费获取OmicsTools的软件安装包
+
+## 软件简介
+
+我开发了一款本地电脑无限使用的零代码生信数据分析作图神器电脑软件OmicsTools，欢迎大家使用OmicsTools进行生物医学科研数据分析和作图，也希望大家能关注我的微信公众号“生信学习”和全网自媒体账号邢博士谈科教和点赞转发我的教学视频和报名OmicsTools使用学习培训班，该软件能让大家在不需要任何编程和代码编写的基础上，快速进行大量的生信分析和加速大家的科学研究。
+
+![omicsToos](img/omicstools.ico)
 
 
 
@@ -44,7 +44,7 @@ OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases ·
 * OmicsTools对于国产生物软件的发展和自主可控有所贡献
 * OmisTools的每个功能模块都制作了详细的图文和视频教学课程和结果解读，让大家能快速掌握OmicsTools的使用和进行各种复杂的生信分析和作图
 
-# OmicsTools的软件安装包下载操作详解
+## OmicsTools的软件安装包下载操作详解
 
 
 
@@ -65,7 +65,7 @@ OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases ·
 
   
 
-# 更多服务
+## 更多服务
 
 * 本人业余时间也提供付费的生信个性化分析作图和科研设计服务,有需要的朋友也可以加我微信"zxhya_123"或搜索关注我的淘宝店铺"生信研究" 在淘宝上跟我联系和商讨生信的个性化分析和生信作图的商单
 
