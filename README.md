@@ -4,7 +4,7 @@
 
 OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases · zihaoxingstudy1/OmicsTools (github.com)](https://github.com/zihaoxingstudy1/OmicsTools/releases) (https://github.com/zihaoxingstudy1/OmicsTools/releases)，点击该链接即可下载历史版本和上传到github上较新版本的OmicsTools电脑软件
 
-如果遇到在国内github访问较慢的情况，也可以关注我的b站，抖音账号"邢博士谈科教"或微信公众号"生信学习"或淘宝店铺“生信研究”，跟我发私信来免费获取OmicsTools的软件安装包
+如果遇到在国内github访问较慢的情况，也可以关注我的b站，抖音账号"邢博士谈科教"或微信公众号"生信学习"或淘宝店铺“生信研究”，跟我发私信来免费获取OmicsTools的软件安装包，软件安装包也在我的生信学习交流qq群931846486的群文件中
 
 ## 软件简介
 
@@ -53,6 +53,11 @@ OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases ·
 
 
 ![omicsToos](img/download1.png)
+
+也可以在我的生信学习交流群931846486的群文件中下载该软件安装包
+
+![omicsToos](img/qq.png)
+
 
 ## OmicsTools的安装使用教学视频
 
