@@ -1,17 +1,19 @@
 # Welcome to OmicsTools
 
-## 软件下载官方网址
-
-OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases · zihaoxingstudy1/OmicsTools (github.com)](https://github.com/zihaoxingstudy1/OmicsTools/releases) (https://github.com/zihaoxingstudy1/OmicsTools/releases)，点击该链接即可下载历史版本和上传到github上较新版本的OmicsTools电脑软件
-
-如果遇到在国内github访问较慢的情况，也可以关注我的b站，抖音，youtube账号"邢博士谈科教"或微信公众号"生信学习"或淘宝店铺“生信研究”，跟我发私信来免费获取OmicsTools的软件安装包，软件安装包也在我的生信学习交流qq群931846486的群文件中
 
 ## 软件简介
 
-我开发了一款本地电脑无限使用的零代码生信数据分析作图神器电脑软件OmicsTools，欢迎大家使用OmicsTools进行生物医学科研数据分析和作图，也希望大家能关注我的微信公众号“生信学习”和全网自媒体账号邢博士谈科教和点赞转发我的教学视频和报名OmicsTools使用学习培训班，该软件能让大家在不需要任何编程和代码编写的基础上，快速进行大量的生信分析和加速大家的科学研究。
+我开发了一款本地电脑无限使用的零代码生信数据分析作软图神器电脑软件OmicsTools，欢迎大家使用OmicsTools进行生物医学科研数据分析和作图，该软件件能让大家在不需要任何编程和代码编写的基础上，分析次数没有限制，可以无限使用，让您在自己的电脑上快速进行大量的生信分析和加速大家的科学研究。
+
+目前市面上各种云平台网站上的各种组学分析，GEO/TCGA数据挖掘，各种复杂图形作图，单细胞数据分析，WGCNA, ssGSEA、GSVA, 拟时序分析， 细胞通讯，机器学习人工智能构建临床预后模型等高级复杂个性化分析都是按次收费的，一次最低都要好几百，在OmicsTools这里都是可以在你自己的电脑上无限使用无限分析的，没有次数限制，一次收费，无限使用，收费也是全网最低价，性价比最高的。
+
+OmicsTools支持申请免费试用，大家可以通过关注和预约我的在线教学直播来了解OmicsTools具备的功能，我给大家现场直播,我也在微信公众号"生信学习",b站抖音小红书"邢博士谈科教"等自媒体平台发布了很多关于OmicsTools的图文教程和视频教程，大家可以前往这些平台关注我的账号和浏览我发布的作品对OmicsTools有更多的了解，我觉得OmicsTools功能是非常丰富强大的，肯定是能让大家满意的。
+
+OmicsTools当前比很多按次收费的云平台都要强大很多，OmicsTools是可以无限使用的，没有次数限制，分析功能也特别多，全部都是零代码操作，一学就会，简单好用。
+
+你会发现用我开发的软件，让你短时间内就成为生信大神，啥都会做，自己编程摸爬滚打，各种报错，花了几个月或者几年，掌握的分析技能还没有我软件能做的分析多。
 
 ![omicsToos](img/omicstools.ico)
-
 
 
 ## OmicsTools涵盖的功能和愿景
@@ -44,7 +46,9 @@ OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases ·
 * OmicsTools对于国产生物软件的发展和自主可控有所贡献
 * OmisTools的每个功能模块都制作了详细的图文和视频教学课程和结果解读，让大家能快速掌握OmicsTools的使用和进行各种复杂的生信分析和作图
 
-## OmicsTools的软件安装包下载操作详解
+## OmicsTools的软件安装包下载安装配置使用操作详解
+
+### OmicsTools的软件包下载教程详解
 
 * [OmicsTools软件的官方github地址](https://github.com/zihaoxingstudy1/OmicsTools): https://github.com/zihaoxingstudy1/OmicsTools
 * [OmicsTools软件的更新版本的下载地址](https://github.com/zihaoxingstudy1/OmicsTools/releases):https://github.com/zihaoxingstudy1/OmicsTools/releases
@@ -58,29 +62,58 @@ OmicsTools在github仓库托管的官方下载地址(永久有效): [Releases ·
 
 ![omicsToos](img/qq.png)
 
+如果遇到在国内github访问较慢的情况，也可以关注我的b站，抖音，小红书账号"邢博士谈科教"或微信公众号"生信学习"或淘宝店铺“生信研究”，跟我发私信来免费获取OmicsTools的软件安装包，软件安装包也在我的生信学习交流qq群931846486的群文件中和b站的粉丝应援团里。
+平时软件更新都比较频繁，大家可以到我的zihaoxingstudy1/OmicsTools github仓库,qq群931846486的群文件中和b站的粉丝应援团里获取添加了更多分析功能的最新的OmicsTools软件包。
 
-## OmicsTools的安装使用教学视频
+### OmicsTools的安装配置教程详解
+
+可以到我的b站上观看OmicsTools的非常详细易懂的安装配置教学视频
+
+* b站上OmicsTools的官方介绍视频:https://www.bilibili.com/video/av1201662576/
+* b站上OmicsTools的安装配置视频: https://www.bilibili.com/video/BV1hx42117U4/ 
+
+## OmicsTools软件用户关心的问题答疑
+
+### 软件会一直更新添加新的功能吗，怎么获取新版本的OmicsTools?
+
+软件是一直都在更新，而且是永久更新的，而且更新非常频繁，一般至少每个月都会更新一般OmicsTools并添加更多新的功能进来，我更新的在本地电脑无限使用无限分析作图的生信零代码一键分析电脑软件神器OmicsTools新版本软件下载github官方网址: https://github.com/zihaoxingstudy1/OmicsTools ，也可以到我的生信交流qq群931846486的群文件中或b站粉丝应援团中下载到OmicsTools分析软件,大家可以下载安装OmicsTools进行各种生信分析和可视化作图。
+
+### 如何能找到OmicsTools相关的图文和视频教程?
+
+我在抖音，b站，小红书等全网自媒体"邢博士谈科教"和微信公众号"生信学习"中都有更新一些OmicsTools使用的相关图文和视频教程，大家可以关注我的自媒体账号和观看我发布的一些作品，目前在微信公众号和b站更新的会更全一些。
 
 
-### 录制好的视频或图文教程观看链接
+### OmicsTools的详细收费价格是怎样的？
 
-#### 自媒体上更新的OmicsTools使用教程
+OmicsTools提供短期年费会员和长期永久终身会员两种付费模式，软件年费会员:399元/年,购买后可在自己电脑上一年内无限使用(短期年费会员每人只能购买一次);软件终身永久大会员:1499元,购买后可在自己电脑上永久无限使用。
 
-* [微信公众号上OmicsTools的官方使用教程,点击该文字即可跳转到微信公众号内容](https://mp.weixin.qq.com/s?__biz=MzIyMDcxNjYzNQ==&mid=2247485424&idx=1&sn=d8611df6f38809e230b4042461b680b9&chksm=97c68cc4a0b105d2f02e95b34d023faf8641bbfb30fc61b6c2dc3f8ae7b1f6f51ba0443e4b66&payreadticket=HKEgLzO5tI4-B0rAqck1joLxSP37_5VD3JRuFxmPaMnYeyAzw2FSBGg8xgOZOsmeSBzBtgw#rd)
+OmicsTools支持申请免费试用，大家可以通过关注和预约我的在线教学直播来了解OmicsTools具备的功能，我给大家现场直播,我也在微信公众号"生信学习",b站抖音小红书"邢博士谈科教"等自媒体平台发布了很多关于OmicsTools的图文教程和视频教程，大家可以前往这些平台关注我的账号和浏览我发布的作品对OmicsTools有更多的了解，我觉得OmicsTools功能是非常丰富强大的，肯定是能让大家满意的。
 
-* [b站上OmicsTools的官方使用教程:https://www.bilibili.com/video/av1201662576/](https://www.bilibili.com/video/av1201662576/)
+OmicsTools当前比很多按次收费的云平台都要强大很多，OmicsTools是可以无限使用的，没有次数限制，分析功能也特别多，全部都是零代码操作，一学就会，简单好用，你会发现用我开发的软件，让你短时间内就成为生信大神，啥都会做，自己编程摸爬滚打，各种报错，花了几个月或者几年，掌握的分析技能还没有我软件能做的分析多。
 
-* [抖音上OmicsTools的官方使用教程:https://www.douyin.com/user/self?modal_id=7343963645736488243,如果打不开链接，直接在抖音app中观看我发布的OmicsTools相关教程视频](https://www.douyin.com/user/self?modal_id=7343963645736488243)
+### 为什么那8个GB的R包网盘链接要付费50元购买(永久会员免费提供)？
 
-* [OmicsTools的安装配置教程](https://www.bilibili.com/video/BV1hx42117U4/): https://www.bilibili.com/video/BV1hx42117U4/
+首先OmicsTools本身也有自动下载安装R包的功能，但是很多R包的下载链接都是来自国外的服务器，尤其是github平台这些托管在国外服务器上的R包对于中国大陆用户可能会存在下载比较慢，下载不完整，依赖的R包下载不了，导致很多R语言用户经常出现R包安装失败和安装报错的问题，我很多年前就经常接一些付费帮忙解决R包安装报错和付费安装R包的单子。
+现在，我把我当前所有可能用到的R包全部都安装好了并克隆了一份，这些R包有将近800个，总体积接近8个GB，我会把这些R包打包上传到网盘中，大家付费50块钱就可以把这些R包的网盘链接发给大家，这8个GB的R包可以解决绝大多数人的R包安装报错问题和R包安装不上的问题，即使没有用OmicsTools的朋友，只要在用R语言，这8个GB的R包都是非常有用的，我也通过这8个GB的R包帮助很多非OmicsTools用户解决了大量R包安装报错和安装不上的问题，这些朋友也都有付费给我。在闲鱼淘宝上也有大量提供R包安装和报错解决的商家，他们的报价也都远不止这50块钱。
 
-* [youtube上的下载使用视频教程](https://youtu.be/T6G2NHVkWas): https://youtu.be/T6G2NHVkWas
+### 为什么OmicsTools的演示数据要付费50元购买(永久会员免费提供)?
+
+首先OmicsTools本身也有很多生信分析功能不需要演示数据也能运行，但是生信分析很多都是要基于数据来分析的，OmicsTools也用到了很多的演示数据文件，我的这些演示数据文件都是特别重要和有意义的，包括了很多重要的通路基因集，基因组注释数据，单细胞的很多细胞marker基因集，药物用药数据库信息等，这些演示文件也有很多个GB,体量非常大，很多文件都非常有用，在其它很多人或者闲鱼淘宝上这些数据的数据文件也都是要付费购买的，当前很多朋友自己有数据也都是可以直接把数据放到OmicsTools上分析的。
+
+### OmicsTools做不做生信教学培训，收费也是像当前市面上众多收费好几千的生信培训班一样吗？
+
+OmicsTools也做生信教学培训班训练营，提供的生信分析技能比很多培训班都多很多，有信心让大家在短时间内就掌握几百个生信分析技能。OmicsTools提供的生信分析技能教学培训班训练营价格: 999元，向学员在线培训软件所有模块和工具的使用，以及把大量模块串联起来进行复杂的科研课题分析,每晚培训1小时，培训1个月共30小时。
+也可以按小时收费来培训大家做各种生信分析,一对多生信培训每小时收费50元,一对一生信教学培训每小时收费100元,比大多数家教便宜，也比大多数收费好几千的生信培训班也便宜的多,基本上是全网最低价了。
+
+
+### 可以通过哪些途径购买到OmicsTools会员，OmicsTools全套R包，全套演示数据, 一对一生信教学，一对多生信教学培训，个性化生信分析等更多的付费服务？
+
+OmicsTools的会员购买和付费服务可向我的微信zxhya_123进行微信转账购买，我近期也在淘宝上上架了该产品,大家也可关注我的淘宝店铺"生信研究"并通过该淘宝链接： https://s.click.taobao.com/amaPfot  来购买我的OmicsTools软件会员授权等服务。
+
+
 
   
 
-## 更多服务
-
-* 本人业余时间也提供付费的生信个性化分析作图和科研设计服务,有需要的朋友也可以加我微信"zxhya_123"或搜索关注我的淘宝店铺"生信研究" 在淘宝上跟我联系和商讨生信的个性化分析和生信作图的商单
 
   
 
