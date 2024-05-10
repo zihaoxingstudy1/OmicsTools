@@ -107,6 +107,24 @@ OmicsTools也做生信教学培训班训练营，提供的生信分析技能比�
 
 ### 如何能免费使用OmicsTools的各种分析和作图功能?
 
+我一般是晚上11点-12点在抖音上直播生信教学和答疑解惑，大家可以来我直播间报上你的注册名，领取激活码,但是大家提前要把R语言的分析环境提前配置好，请参考下面的配置资料和教程:
+
+R语言分析环境百度网盘下载链接:
+
+链接：https://pan.baidu.com/s/1ascVj9rdcc1NlL7sShYRSw 
+提取码：hd4e
+
+一些已经被我编译安装好了直接下载解压到你自己电脑上就能开箱即用的R包百度网盘下载链接:
+
+链接：https://pan.baidu.com/s/11mSfP5TyGIAD1hGkvsl_yg 
+提取码：d1j9
+
+可以到我的b站上观看OmicsTools的非常详细易懂的安装配置教学视频
+
+* b站上OmicsTools的安装配置视频: https://www.bilibili.com/video/BV1hx42117U4/ 
+
+这个安装配置视频将的非常详细，大家一定要把这个视频从头到尾完整看一遍，大家完整的安装这个视频的教学来操作，基本上都可以把OmicsTools分析环境完全配置好的。
+
 可以点击该报名接龙链接进入会员免费使用权限的报名申请接龙，直接填上你的名字接龙一下即可。【腾讯文档】OmicsTools免费试用申请报名接龙，满 100 人后开通试用权限和一晚上直播教学
 https://docs.qq.com/form/page/sequence/DWXJEeGtscVlDb0xu
 
