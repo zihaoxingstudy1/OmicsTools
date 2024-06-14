@@ -23,6 +23,7 @@ I have developed a local computer software called OmicsTools for unlimited, zero
 - Proteomics and metabolomics data analysis via mass spectrometry.
 - Mutation and copy number variation analysis
 - Mendelian randomization analysis
+- Multiple machine learning algorithms for analyzing biomedical data
 - Regulatory data analysis including ChIP-seq and ATAC-seq.
 - Analysis of DNA methylation and post-translational modifications.
 - Single-cell and spatial transcriptomics analysis.
