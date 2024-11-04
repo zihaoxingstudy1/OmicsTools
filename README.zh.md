@@ -1,7 +1,8 @@
 # Welcome to OmicsTools
 
-
 [English英文文档](./README.zh.md)
+
+[OmicsTools各领域生信分析全流程教程和答疑指导汇总版](https://docs.qq.com/doc/DWWtrd0Z2T1JHWVNa):https://docs.qq.com/doc/DWWtrd0Z2T1JHWVNa
 
 ## 软件简介
 
